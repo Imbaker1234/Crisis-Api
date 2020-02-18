@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crisis.Api", "Crisis.Api\Crisis.Api.csproj", "{F794999A-4C5C-48EF-A53A-118A66B1DCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crisis.Characters", "Crisis.Characters\Crisis.Characters.csproj", "{A2296AE3-AD0B-4531-ADEA-F2B19E69CFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterAbstractions", "CharacterAbstractions\CharacterAbstractions.csproj", "{70F194FE-05A0-42A2-9257-C94DAC74E597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F794999A-4C5C-48EF-A53A-118A66B1DCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F794999A-4C5C-48EF-A53A-118A66B1DCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F794999A-4C5C-48EF-A53A-118A66B1DCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F794999A-4C5C-48EF-A53A-118A66B1DCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2296AE3-AD0B-4531-ADEA-F2B19E69CFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2296AE3-AD0B-4531-ADEA-F2B19E69CFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2296AE3-AD0B-4531-ADEA-F2B19E69CFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2296AE3-AD0B-4531-ADEA-F2B19E69CFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F194FE-05A0-42A2-9257-C94DAC74E597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F194FE-05A0-42A2-9257-C94DAC74E597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F194FE-05A0-42A2-9257-C94DAC74E597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F194FE-05A0-42A2-9257-C94DAC74E597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

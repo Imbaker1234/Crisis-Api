@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CharacterAbstractions\CharacterAbstractions.csproj" />
+      <ProjectReference Include="..\Crisis.Dice\Crisis.Dice.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Actions" />
+    </ItemGroup>
+
+</Project>

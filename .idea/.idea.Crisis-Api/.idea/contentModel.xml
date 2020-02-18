@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\imbak\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\imbak\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Crisis-Api.-980202207.00" t="ExcludeRecursive" />
+    <e p="C:\Users\imbak\RiderProjects\Crisis-Api" t="IncludeFlat">
+      <e p="CharacterAbstractions" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CharacterAbstractions.csproj" t="IncludeRecursive" />
+        <e p="ISkill.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="CharacterAbstractions.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Crisis-Api.sln" t="IncludeFlat" />
+      <e p="Crisis.Api" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="AppState.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="CrisisController.cs" t="Include" />
+        </e>
+        <e p="Crisis.Api.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Crisis.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="RollService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Crisis.Characters" t="IncludeRecursive">
+        <e p="Actions" t="Include" />
+        <e p="AttributeEffect.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Character" t="Include">
+          <e p="Attributes.cs" t="Include" />
+          <e p="Character.cs" t="Include" />
+          <e p="MentalSkills.cs" t="Include" />
+          <e p="PhysicalSkills.cs" t="Include" />
+          <e p="SocialSkills.cs" t="Include" />
+        </e>
+        <e p="Crisis.Characters.csproj" t="IncludeRecursive" />
+        <e p="Crisis.cs" t="Include" />
+        <e p="Effect.cs" t="Include" />
+        <e p="EffectType.cs" t="Include" />
+        <e p="EnvEffect.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Crisis.Characters.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Phase.cs" t="Include" />
+        <e p="Round.cs" t="Include" />
+        <e p="SkillEffect.cs" t="Include" />
+        <e p="Traits" t="Include">
+          <e p="Attributes" t="Include">
+            <e p="Attribute.cs" t="Include" />
+            <e p="Attributes.cs" t="Include" />
+          </e>
+          <e p="Skills" t="Include">
+            <e p="Skill.cs" t="Include" />
+            <e p="Skills.cs" t="Include" />
+          </e>
+          <e p="Trait.cs" t="Include" />
+        </e>
+        <e p="Turn.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

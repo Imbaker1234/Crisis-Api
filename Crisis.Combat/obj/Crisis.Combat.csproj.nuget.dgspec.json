@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Combat\\Crisis.Combat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\CharacterAbstractions\\CharacterAbstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\CharacterAbstractions\\CharacterAbstractions.csproj",
+        "projectName": "CharacterAbstractions",
+        "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\CharacterAbstractions\\CharacterAbstractions.csproj",
+        "packagesPath": "C:\\Users\\imbak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\CharacterAbstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Characters\\Crisis.Characters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Characters\\Crisis.Characters.csproj",
+        "projectName": "Crisis.Characters",
+        "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Characters\\Crisis.Characters.csproj",
+        "packagesPath": "C:\\Users\\imbak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Characters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\CharacterAbstractions\\CharacterAbstractions.csproj": {
+                "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\CharacterAbstractions\\CharacterAbstractions.csproj"
+              },
+              "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Dice\\Crisis.Dice.csproj": {
+                "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Dice\\Crisis.Dice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Combat\\Crisis.Combat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Combat\\Crisis.Combat.csproj",
+        "projectName": "Crisis.Combat",
+        "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Combat\\Crisis.Combat.csproj",
+        "packagesPath": "C:\\Users\\imbak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Combat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Characters\\Crisis.Characters.csproj": {
+                "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Characters\\Crisis.Characters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Dice\\Crisis.Dice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Dice\\Crisis.Dice.csproj",
+        "projectName": "Crisis.Dice",
+        "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Dice\\Crisis.Dice.csproj",
+        "packagesPath": "C:\\Users\\imbak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Dice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Effects\\Crisis.Effects.csproj": {
+                "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Effects\\Crisis.Effects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Effects\\Crisis.Effects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Effects\\Crisis.Effects.csproj",
+        "projectName": "Crisis.Effects",
+        "projectPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Effects\\Crisis.Effects.csproj",
+        "packagesPath": "C:\\Users\\imbak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbak\\RiderProjects\\Crisis-Api\\Crisis.Effects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
